@@ -1,5 +1,7 @@
 # Microservice Mall
 
+> **This project is mainly built for practicing microservice technologies.**
+
 ---
 
 ## Table of Contents
@@ -16,10 +18,9 @@
 
 | Item | Description |
 |---|---|
-| **Purpose** | Learning / practicing a microservice tech stack |
+| **Purpose** | Practicing a microservice tech stack (a learning project) |
 | **Domain** | Simplified e-commerce: products → cart → order → payment → order management, including users, address book and account balance |
-| **Principle** | Every technology is applied to a real business flow (for example, Seata guarantees cross-service consistency in order placement — not just a demo endpoint) |
-| **Frontend** | React + Vite + Ant Design 5 (login, product search, cart, order placement & payment, order and address management) |
+| **Frontend** | React 18 + Vite + Ant Design 5 (login, product search, cart, order placement & payment, order and address management) |
 
 ---
 
