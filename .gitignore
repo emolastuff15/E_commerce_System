@@ -90,3 +90,7 @@ Thumbs.db
 # ---------------------------------------------------------------------------
 **/application-local.yaml
 **/application-*.local.y*ml
+
+# 私钥与本地文件
+**/*.jks
+_dsh_write_test.txt
