@@ -1,0 +1,18 @@
+node_modules
+.npm-cache
+.tmp
+dist
+dist-ssr
+*.local
+.DS_Store
+.vite
+
+# editor
+.idea
+.vscode/*
+!.vscode/extensions.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

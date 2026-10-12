@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: trade-service
+  profiles:
+    active: local
+  cloud:
+    nacos:
+      server-addr: localhost:8848
+      config:
+        file-extension: yaml
+        shared-configs:
+          - data-id: shared-seata.yaml
