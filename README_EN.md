@@ -66,23 +66,7 @@ Middleware ports:
 
 ---
 
-## Features
 
-**User side**
-
-- Home carousel, product search (keyword / category / brand / price range + sorting + pagination), product detail
-- Cart: add to cart, change quantity, remove, select for checkout
-- Order placement: choose a shipping address on the confirmation page and create an order (cross-service: clear the cart + deduct stock)
-- Payment: balance payment, payment success updates the order status
-- Orders: my orders (filter by status, paginated), order detail, go to payment
-- Account: user information, balance view and top-up
-- Address book: create / update / delete / set as default (address picking via Google Maps Places, storing the Place ID)
-
-**Admin side**
-
-- Product management: paginated queries, create / update / list on-off shelf / delete (including specs and stock)
-
----
 
 ## Getting Started
 
